@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactPokmonSillyGame/static/css/main.c1b0993d.css",
+    "main.js": "/ReactPokmonSillyGame/static/js/main.85709323.js",
+    "static/js/787.6414e994.chunk.js": "/ReactPokmonSillyGame/static/js/787.6414e994.chunk.js",
+    "index.html": "/ReactPokmonSillyGame/index.html",
+    "main.c1b0993d.css.map": "/ReactPokmonSillyGame/static/css/main.c1b0993d.css.map",
+    "main.85709323.js.map": "/ReactPokmonSillyGame/static/js/main.85709323.js.map",
+    "787.6414e994.chunk.js.map": "/ReactPokmonSillyGame/static/js/787.6414e994.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1b0993d.css",
+    "static/js/main.85709323.js"
+  ]
+}
